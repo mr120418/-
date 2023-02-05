@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: brown;
+    border-radius: 10px;
+    color: wheat;
+    padding: 5px;
+}
+
+ header a{
+    text-decoration: none;
+    color:white;
+    background-color:green ;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 2px;
+}
+
+main h1{
+    text-align: center;
+    color: powderblue;
+    background-color: slategray;
+    border-radius: 10px;
+}
+
+footer p{
+    border:2px solid grey;
+    background-color: lightgreen;
+}
+
+nav a{
+    text-decoration: none;
+    border: 1px solid blue;
+    border-radius: 10px;
+    background-color: cyan;
+    color: black;
+    padding: 2px;
+    margin: 85px;
+}
+
+nav{
+    background-color:wheat;
+    padding: 10px;
+    border:2px solid peru;
+   border-radius: 10px;
+}
+
+.hi{
+    background-color:wheat;
+    border-radius: 10px;
+    padding: 2px;
+}
+
+.hello{
+    color:cyan;
+}
+
+.rt{
+    text-decoration: none;
+    color: black;
+    background-color: crimson;
+    border-radius: 10px;
+    padding: 2px;
+}
